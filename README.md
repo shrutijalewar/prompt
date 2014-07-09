@@ -1,6 +1,7 @@
 prompt
 ======
-a awesome node app that does the following:
+an awesome node app that does the following:
+
 1- name
 2- Dog age conversion
 4- legal to drink
